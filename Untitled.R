@@ -1,4 +1,8 @@
 library(palmerpenguins)
-head(penguins)
+library(ggplot2)
+
+
+ggplot(penguins, aes(bill_length_mm, bill_depth_mm))+
+  geom_point()
 
 print("Anda pepperoni pizza")
