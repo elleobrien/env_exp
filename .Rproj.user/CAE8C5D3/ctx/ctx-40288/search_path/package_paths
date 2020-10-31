@@ -1,0 +1,8 @@
+datasets="/Library/Frameworks/R.framework/Versions/3.6/Resources/library/datasets"
+ggplot2="/Users/elleobrien/Library/Application Support/renv/cache/v5/R-3.6/x86_64-apple-darwin15.6.0/ggplot2/3.3.2/4ded8b439797f7b1693bd3d238d0106b/ggplot2"
+grDevices="/Library/Frameworks/R.framework/Versions/3.6/Resources/library/grDevices"
+graphics="/Library/Frameworks/R.framework/Versions/3.6/Resources/library/graphics"
+methods="/Library/Frameworks/R.framework/Versions/3.6/Resources/library/methods"
+palmerpenguins="/Users/elleobrien/Library/Application Support/renv/cache/v5/R-3.6/x86_64-apple-darwin15.6.0/palmerpenguins/0.1.0/9a455031890b2adf20e19784a114ddd4/palmerpenguins"
+stats="/Library/Frameworks/R.framework/Versions/3.6/Resources/library/stats"
+utils="/Library/Frameworks/R.framework/Versions/3.6/Resources/library/utils"
