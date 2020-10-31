@@ -9,6 +9,14 @@ jobs:
         
       - name: Setup R
         uses: r-lib/actions/setup-r@master
+    
+    
+      - name: Cache Renv packages
+        uses: actions/cache@v2
+        with:
+          path: $HOME/.local/share/renv
+          key: r-${{ hashFiles('renv.lock') }}
+
         
       - name: Install packages
         run: |
