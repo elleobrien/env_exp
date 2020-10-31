@@ -1,12 +1,6 @@
 {
   "R": {
-    "Version": "3.6.2",
-    "Repositories": [
-      {
-        "Name": "REPO_NAME",
-        "URL": "https://packagemanager.rstudio.com/all/352"
-      }
-    ]
+    "Version": "3.6.2"
   },
   "Packages": {
     "MASS": {
